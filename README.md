@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">👋 Hello, I'm Lena Belise MUTIMA</h1>
+<h1 align="center">👋 Hello, I'm Lena Belise MUTIMA</h1>
 <h3 align="center">Développeuse Web & Mobile (Bac+2) — Recherche alternance dès Janv. 2026</h3>
 
 <p align="center">
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
