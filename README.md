@@ -1,16 +1,37 @@
-# Lena Belise MUTIMA
-### Développeuse Web & Mobile (BAC+2). Recherche alternance Conception d'applications dès Janv 2026.  Rigoureuse & autonome.
+<h1 align="center">👋 Hello, I'm Lena Belise MUTIMA</h1>
+<h3 align="center">Développeuse Web & Mobile (Bac+2) — Recherche alternance dès Janv. 2026</h3>
 
-⤷ Future conceptrice d’applications. Dev web & mobile (Bac+2). HTML, CSS, JS, Vue, PHP, Symfony, SQL. J’aime apprendre, résoudre des problèmes réels et créer des interfaces accessibles et efficaces.
+<p align="center">
+Future conceptrice d’applications qui aime apprendre, résoudre des problèmes réels et créer des interfaces accessibles et efficaces.
+Rigoureuse, autonome & passionnée par l’expérience utilisateur.
+</p>
 
+---
 
- <a aligh="left" href="mailto:mlenabelise@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
+### 🚀 Projet en cours
+**Easy Peasy France**  
+Plateforme pour faciliter les démarches des nouveaux arrivants en France.  
+👉 <a href="https://github.com/lena-bel/Easy-Peasy-France">Voir le repo</a>
 
-⚐ Based in Basée à Lyon, mobile pour alternance en France.
+---
 
-ϟ Currently Projet Easy Peasy France (fin de formation DWWM) —> support administratif et entraide communautaire pour les nouveaux arrivants en France
+### 🛠️ Compétences
 
+**Front-end**  
+HTML · CSS · SASS · Bootstrap · Tailwind · JavaScript · VueJS  
 
+**Back-end**  
+PHP · Symfony · SQL/MySQL  
 
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a>  <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a> 
+**Outils**  
+Git · GitHub · Figma 
+
+---
+
+### 📫 Contact
+📍 Basée à Lyon — Mobile en France  
+📩 <a href="mailto:mlenabelise@gmail.com">mlenabelise@gmail.com</a>  
+
+---
+
+⭐️ _En formation continue, toujours prête à relever de nouveaux défis !_
