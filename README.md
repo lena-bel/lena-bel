@@ -11,7 +11,7 @@ Rigoureuse, autonome & passionnée par l’expérience utilisateur.
 ### 🚀 Projet en cours
 **Easy Peasy France**  
 Plateforme pour faciliter les démarches des nouveaux arrivants en France.  
-👉 <a href="https://github.com/lena-bel/Easy-Peasy-France">Voir le repo</a>
+👉 <a href="https://easypeasyfrance.fr/">Voir le site web</a>
 
 ---
 
