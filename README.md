@@ -2,7 +2,7 @@
 <h3 align="center">Développeuse Web & Mobile (Bac+2) — Recherche alternance en développement Full Stack dès septembre 2026</h3>
 
 <p align="center">
-Future conceptrice d’applications qui aime apprendre, résoudre des problèmes réels et créer des interfaces accessibles et efficaces.
+Future Développeuse Full Stack qui aime apprendre, résoudre des problèmes réels et créer des interfaces accessibles et efficaces.
 Rigoureuse, autonome & passionnée par l’expérience utilisateur.
 </p>
 
