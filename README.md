@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Lena Belise MUTIMA</h1>
-<h3 align="center">Développeuse Web & Mobile (Bac+2) — Recherche alternance Conception d'applications dès Janv. 2026</h3>
+<h3 align="center">Développeuse Web & Mobile (Bac+2) — Recherche alternance Conception d'applications dès septembre 2026</h3>
 
 <p align="center">
 Future conceptrice d’applications qui aime apprendre, résoudre des problèmes réels et créer des interfaces accessibles et efficaces.
