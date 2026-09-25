@@ -1,113 +1,161 @@
 <h1 align="center">👋 Hello, I'm Lena Belise MUTIMA</h1>
 
-<h3 align="center">Développeuse Web & Mobile — Recherche d'une alternance en développement Full Stack dès septembre 2026</h3>
+<h3 align="center">💻 Développeuse Web & Mobile · Full Stack · Backend</h3>
 
 <p align="center">
-Développeuse passionnée par la création d'applications web et mobiles, avec un intérêt particulier pour le développement backend.
-J'aime comprendre comment les choses fonctionnent, résoudre des problèmes et transformer des idées en projets concrets.
+  Étudiante en informatique à Lyon 2, passionnée par le développement web et la création d'applications.
+  <br>
+  Actuellement à la recherche d'une <strong>alternance en développement Full Stack</strong> avec un intérêt particulier pour le backend.
+</p>
+
+<p align="center">
+  <a href="https://github.com/lena-bel">
+    <img src="https://img.shields.io/badge/GitHub-lena--bel-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:mlenabelise@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-### 👩🏾‍💻 À propos de moi
+## 👩🏾‍💻 À propos de moi
 
-🎓 Formation en développement web & mobile — Bac+2
-💻 Intérêt particulier pour le **développement Full Stack & Backend**
-📱 Ouverte également au **développement d'applications mobiles**
-📍 Basée à Lyon · Mobile en France
-🔎 À la recherche d'une **alternance dès septembre 2026**
+Je suis **Lena**, développeuse web et étudiante en informatique.
 
-Je suis une développeuse curieuse, autonome et organisée, toujours prête à apprendre de nouvelles technologies et à améliorer mes compétences à travers des projets concrets.
+J'aime créer des projets de A à Z : réfléchir à l'interface, concevoir la structure, développer les fonctionnalités et résoudre les problèmes qui apparaissent en cours de route.
 
----
+Je m'intéresse particulièrement au **développement backend**, aux bases de données et à la logique qui permet aux applications de fonctionner.
 
-### 🚀 Projets
+🎓 Étudiante en informatique — Université Lyon 2
+💻 Développement Web & Mobile
+⚙️ Intérêt particulier pour le Full Stack & Backend
+📱 Intérêt pour le développement mobile
+📍 Lyon, France
+🔎 Recherche d'une **alternance en développement Full Stack**
 
-#### 🇫🇷 Easy Peasy France
-
-Plateforme web destinée à faciliter les démarches et l'installation des nouveaux arrivants en France.
-
-**Technologies :** PHP · Symfony · Twig · SQL · Sass
-
-👉 <a href="https://easypeasyfrance.fr/">Voir le projet</a>
+Je suis une personne **curieuse, autonome, organisée et persévérante**. J'apprends principalement en pratiquant et en construisant des projets concrets.
 
 ---
 
-#### 🍽️ Site vitrine — Restaurant
+## 🚀 Mes projets
 
-Site web responsive réalisé de A à Z avec conception de l'interface, intégration et développement.
+### 🇫🇷 Easy Peasy France
 
-**Technologies :** HTML · CSS · JavaScript
+**Easy Peasy France** est une plateforme web pensée pour aider les personnes nouvellement arrivées en France à mieux comprendre et organiser leurs démarches.
+
+Le projet m'a permis de travailler sur différentes parties d'une application web, du frontend au backend.
+
+**Technologies :**
+`PHP` `Symfony` `Twig` `SQL` `Sass`
+
+👉 **[Voir le projet](https://easypeasyfrance.fr/)**
 
 ---
 
-#### 💻 42 Piscine — 2026
+### 🍽️ Site vitrine — Restaurant
 
-Travaux réalisés pendant la Piscine de l'École 42, avec de nombreux exercices et projets en **C et Shell**.
+Un site vitrine responsive réalisé de A à Z.
 
-📚 Au programme notamment :
+J'ai travaillé sur la conception de l'interface, l'intégration des pages, le responsive design, les animations et les interactions JavaScript.
+
+**Technologies :**
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 💻 42 Piscine — 2026
+
+Travaux réalisés pendant la **Piscine de l'École 42**, avec de nombreux exercices et projets en **C et Shell**.
+
+📚 Parmi les notions travaillées :
 
 * C00 → C07
 * Shell00 & Shell01
 * Rush00 & Rush01 — projets en groupe
-* Pointeurs, chaînes de caractères, mémoire et allocation dynamique
-* Fonctions, récursivité et manipulation de tableaux
-* Git, Linux, GCC, Makefile et bibliothèques
-* Travail en environnement Unix
+* Pointeurs et manipulation de mémoire
+* Chaînes de caractères
+* Allocation dynamique
+* Fonctions et récursivité
+* Tableaux
+* Git & environnement Unix
+* Linux & GCC
+* Makefile
+* Création et utilisation de bibliothèques
 
-👉 Ce repository rassemble mon travail réalisé pendant la Piscine, y compris les exercices que je n'ai pas terminés.
-
----
-
-### 🛠️ Compétences
-
-#### Front-end
-
-HTML · CSS · Sass · Bootstrap · Tailwind CSS · JavaScript · Vue.js
-
-#### Back-end
-
-PHP · Symfony · Twig · SQL · MySQL
-
-#### Mobile
-
-Swift
-
-#### Outils & environnement
-
-Git · GitHub · Figma · Linux · VS Code · GCC · Makefile
+👉 Ce repository rassemble mon travail réalisé pendant la Piscine, **y compris certains exercices non terminés**.
 
 ---
 
-### 🌱 Actuellement
+## 🛠️ Technologies & compétences
 
-Je continue à développer mes compétences en :
+### 🎨 Front-end
+
+`HTML` `CSS` `Sass` `Bootstrap` `Tailwind CSS` `JavaScript` `Vue.js`
+
+### ⚙️ Back-end
+
+`PHP` `Symfony` `Twig` `SQL` `MySQL`
+
+### 📱 Mobile
+
+`Swift`
+
+### 🔧 Outils & environnement
+
+`Git` `GitHub` `Figma` `Linux` `VS Code` `GCC` `Makefile`
+
+### 🌱 En apprentissage
+
+`Python` `C` `JavaScript` `Développement Full Stack` `Architecture Backend`
+
+---
+
+## 📚 Actuellement
+
+Je continue à développer mes compétences à travers mes études et mes projets personnels.
+
+Mes principaux axes d'apprentissage sont :
 
 * 🧩 Développement Full Stack
 * ⚙️ PHP & Symfony
 * 🗄️ Bases de données & SQL
-* 🐘 Backend et architecture d'applications
+* 🐘 Backend & architecture d'applications
 * 📱 Développement mobile
 * 💻 C & programmation bas niveau
 * 🐍 Python
+* 🟨 JavaScript
 
 ---
 
-### 🎯 Mon objectif
+## 🎯 Ce que je recherche
 
-Trouver une **alternance en développement web Full Stack**, avec une préférence pour le **backend**, au sein d'une entreprise où je pourrai contribuer à de vrais projets, apprendre auprès de développeurs expérimentés et continuer à progresser professionnellement.
+Je recherche une **alternance en développement web Full Stack**, avec une préférence pour le **backend**.
+
+Je souhaite rejoindre une équipe dans laquelle je pourrai :
+
+* contribuer à de vrais projets ;
+* développer mes compétences techniques ;
+* apprendre auprès de développeurs expérimentés ;
+* travailler sur des problématiques concrètes ;
+* continuer à progresser en tant que développeuse.
 
 Je suis particulièrement intéressée par les **TPE, startups, agences et associations**.
 
+📅 **Disponible pour une alternance à partir de septembre 2026.**
+
 ---
 
-### 📫 Contact
+## 📫 Me contacter
 
-📍 Lyon, France
-📩 <a href="mailto:mlenabelise@gmail.com">[mlenabelise@gmail.com](mailto:mlenabelise@gmail.com)</a>
+📍 **Lyon, France**
+
+📩 **[mlenabelise@gmail.com](mailto:mlenabelise@gmail.com)**
+
+💻 **[GitHub — lena-bel](https://github.com/lena-bel)**
 
 ---
 
 <p align="center">
-⭐️ <i>Construire, apprendre, expérimenter et progresser — un projet à la fois.</i>
+  <i>✨ Construire. Apprendre. Expérimenter. Progresser.</i>
 </p>
