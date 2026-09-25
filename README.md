@@ -125,7 +125,7 @@ Mes principaux axes d'apprentissage sont :
 * 💻 C & programmation bas niveau
 * 🐍 Python
 * 🟨 JavaScript
-
+<!-- 
 ---
 
 ## 🎯 Ce que je recherche
@@ -143,7 +143,7 @@ Je souhaite rejoindre une équipe dans laquelle je pourrai :
 Je suis particulièrement intéressée par les **TPE, startups, agences et associations**.
 
 📅 **Disponible pour une alternance à partir de septembre 2026.**
-
+-->
 ---
 
 ## 📫 Me contacter
